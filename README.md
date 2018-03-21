@@ -8,8 +8,5 @@ root@root:$- perl facelow.pl email@target password.txt ( bikinan  kalian )
 
 
 
-follow my instagram @muslimsecurity.ofc
-
-
-
+follow my twitter : https://twitter.com/L0wb0tS
 
